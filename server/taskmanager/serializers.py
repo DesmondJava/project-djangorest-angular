@@ -1,7 +1,7 @@
 from django.contrib.auth.models import User
 from rest_framework import serializers
 
-from server.taskmanager.models import Task, Answer
+from taskmanager.models import Task, Answer
 
 
 class TaskSerializer(serializers.ModelSerializer):
