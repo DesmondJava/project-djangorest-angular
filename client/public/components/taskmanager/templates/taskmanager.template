@@ -1,0 +1,5 @@
+<div ng-controller="TaskmanagerController">
+    <div>
+        {{message}}
+    </div>
+</div>

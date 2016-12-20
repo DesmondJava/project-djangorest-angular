@@ -1,0 +1,8 @@
+{
+  "name": "taskmanager-client",
+  "description": "Angular application",
+  "dependencies": {
+    "express": "^4.13.4",
+    "bower": "1.7.9"
+  }
+}
